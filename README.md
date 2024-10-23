@@ -4,7 +4,7 @@ This repository contains my work on the **Titanic: Machine Learning from Disaste
 
 This challenge serves as an introduction to classification problems, allowing me to apply a variety of machine learning algorithms while gaining familiarity with the Kaggle platform. The dataset is derived from actual Titanic passenger data, and the challenge is to build models that can predict survival outcomes based on features such as gender, age, class, and fare.
 
-![Titanic Image](/Users/disastershubz/Downloads/Titanic-twi.png)
+![Titanic Image](https://github.com/ShubhamRSY/Titanic---Machine-Learning-from-Disaster/blob/main/Titanic-twi.png?raw=true)
 
 
 
