@@ -4,6 +4,9 @@ This repository contains my work on the **Titanic: Machine Learning from Disaste
 
 This challenge serves as an introduction to classification problems, allowing me to apply a variety of machine learning algorithms while gaining familiarity with the Kaggle platform. The dataset is derived from actual Titanic passenger data, and the challenge is to build models that can predict survival outcomes based on features such as gender, age, class, and fare.
 
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.arrikto.com%2Fblog%2Ftitanic-disaster-machine-learning-workshop-recap-feb-9-2022%2F&psig=AOvVaw3T33I_qNlFUfAvCUrrICiC&ust=1729771575070000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD2v7m7pIkDFQAAAAAdAAAAABAE)
+
+
 ## Problem Statement
 
 The competition revolves around binary classification: predicting whether a passenger survived or not (0 = No, 1 = Yes). The challenge is to create a predictive model using the training dataset, which contains both features and corresponding survival labels. The model is then tested on an unseen dataset for which the survival outcome is unknown.
